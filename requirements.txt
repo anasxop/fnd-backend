@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-gunicorn
-pydantic
-scikit-learn
-pandas
-joblib
-nltk
-google-generativeai
